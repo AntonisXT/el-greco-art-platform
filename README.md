@@ -285,7 +285,7 @@ npx serve ../frontend
 ## 🧠 API Documentation
 Full OpenAPI spec is available at:
 - [`docs/openapi.yaml`](docs/openapi.yaml)
-- [Swagger UI → API Docs](https://el-greco-art-platform.onrender.com/api/docs)
+- [Swagger UI → API Docs](https://el-greco-art-explorer.onrender.com/api/docs)
 
 ---
 
